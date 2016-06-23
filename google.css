@@ -1,0 +1,64 @@
+/*Global*/
+	/*Change Font to Roboto*/
+body, .g, html, .std, .c h2, h1, #cdr_min, #cdr_max, .cpbb, .kpbb, .kprb, .kpgb, .kpgrb, .ksb {
+    font-family: roboto,arial,sans-serif!important;
+}
+	/*app drawer icon labels*/
+span.gb_4 {
+    display: none;
+}
+/*Google.com Search Results Only*/
+	/*Header Colors and height*/
+.srp .sfbgg {
+  background-color: #4285f4;
+}
+.srp .sbib_a {
+  background: #5E97F6!important;
+  height: 48px!important;
+}
+.srp div.sfbg, div.sfbgg {
+	height: 64px!important;
+  border-bottom: none;
+  box-shadow: 0 1px 8px rgba(0,0,0,.2);
+}
+	/*Remove search icons*/
+.srp .sfsbc, .srp div#gs_st0 {
+  display:none;
+}
+	/*Search Bar*/
+.srp #sfdiv {
+    border: none;
+  	background:#4285f4;
+    overflow: visible!important;
+}
+.srp #searchform input {
+  color: #fff!important;
+  padding: 6px 0 0 20px!important;
+}
+.srp .gstl_0.sbib_a {
+    border-radius: 3px;
+}
+.srp #searchform, .srp .sfbg {
+  position: fixed;
+}
+	/*Logo*/
+.srp #logo img {
+    display: none;
+}
+.srp #logo {
+    background-size: 119%;
+    background-repeat: no-repeat;
+    width: 85px;
+    height: 64px;
+    background-position: 1px 5px;
+    background-image: url(https://ssl.gstatic.com/images/branding/lockups/2x/lockup_gplus_light_color_88x24dp.png)!important;
+    background-clip: content-box;
+}
+.srp div#logocont {
+    padding-top: 10px;
+}
+	/*Name Color*/
+.srp .gb_P {
+    color: #fff!important;
+    opacity: 1!important;
+}

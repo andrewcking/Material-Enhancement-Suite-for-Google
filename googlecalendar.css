@@ -1,0 +1,130 @@
+/*Just for logo*/
+.gb_db, .gb_4 {
+  display: none;
+}
+.gb_cb .gb_Wa {
+  border-bottom-color: #fff;
+}
+span.gb_Qb{
+background-image: url('https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png')!important;
+}
+/*Restore the +*/
+#gb#gb a.gb_P, #gb#gb span.gb_P:before {
+	content: '+';
+}
+/*Google Cal Overrides*/
+body,.st-c-pos,.calListLabel, .calListLabel-sel {
+    font: small/normal Roboto, Arial,sans-serif;
+}
+td.st-dtitle {
+    font-size: 1.5em;
+    font-weight: 300;
+}
+.st-dtitle {
+    padding: 7px 7px!important;
+}
+.mv-dayname {
+  font-size: 16px;
+  text-align: center;
+  font-weight: 300;
+}
+.rb-ni {
+    color: #fff;
+}
+.rb-n {
+    border: none!important;
+    border-radius: 3px;
+}
+/*Google bar style
+div#gbqfqw,.gb_qd.gb_le, .gb_pd.gb_ke {
+  background: #4285f4;
+}
+#onegoogbar {
+  box-shadow: 0 1px 8px rgba(0,0,0,.2);
+}
+span.gb_yb {
+    background-size: 119%!important;
+    background-repeat: no-repeat;
+    width: 93px;
+    height: 64px;
+    background-position: 0px 18px;
+    background-image: url(https://ssl.gstatic.com/images/branding/lockups/2x/lockup_gplus_light_color_88x24dp.png)!important;
+    background-clip: content-box;
+}
+div#gbqfbw {
+    display: none;
+}
+#gb#gb a.gb_P, #gb#gb span.gb_P {
+	color: #fff;
+  	opacity: 1;
+}
+.gbqfif, .gbqfsf {
+  color: #fff!important;
+}
+div#gbqfqwb {
+    background-color: #5E97F6!important;
+  border-radius: 3px!important;
+	height: 48px!important;
+}
+::-webkit-input-placeholder {
+    color: rgba(255, 255, 255, .5);
+}
+div#gbqfqw {
+    border: 0;
+}
+.gb_qd.gb_le, .gb_pd.gb_ke {
+    height: 64px;
+}
+#gbq2, #gbqfq {
+    padding-top: 8px!important;
+}
+#gbqfq, #gbqfqb, #gbqfqc {
+  margin: 14px 10px
+}
+.asb-i {
+	padding-top: 22px!important;
+}
+#mainlogo {
+  color: #4285f4;
+}
+.qnb-container .goog-imageless-button {
+	border: none;
+}
+.qnb-container .goog-imageless-button, .action-btn-wrapper .goog-imageless-button {
+	background: #4285f4!important;
+  	width: 40px!important;
+}
+.goog-inline-block.goog-imageless-button, .navbuttonouter, .navbuttonouter:hover {
+    background: #4285f4!important;
+    color: #fff!important;
+    border: 0!important;
+
+
+}
+.navForward,.navBack {
+	background-image: none!important;
+    	font-size: 20px!important;
+}
+.navForward:before {
+	content: '>';
+}
+.navBack:before {
+	content: '<';
+}
+.navbutton {
+	margin-top: 0!important;
+}
+.date-top {
+    color: #4285f4!important;
+    font-size: 17px!important;
+    font-weight: 300!important;
+}
+div#mainnav {
+    margin: 20px 0 7px!important;
+}
+.st-c .te, .st-c .rb-n {
+  padding: 3px 11px!important;
+}
+.st-c-pos {
+    padding: 1px 3px!important;
+}

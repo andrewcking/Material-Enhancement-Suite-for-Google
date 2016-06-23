@@ -1,0 +1,93 @@
+/*Google Logo - for gapps accounts*/
+.gb_Rb {
+    background-image: url('https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png')!important;
+}
+/*Top Padding*/
+.gb_ef,
+.gb_Wc {
+    padding: 5px 0 0 0;
+}
+/*Search Bar*/
+.gbqfb {
+    display: none!important;
+}
+.gbqfqw.gbqfqw:active,
+.gbqfqw.gbqfqwf.gbqfqw {
+    border-color: #ddd!important;
+}
+#gbqfqw {
+    border-right-width: 1px!important;
+    height: 48px;
+    margin-top: -11px;
+    border-radius: 3px;
+    background-color: #eee;
+}
+input#gbqfq {
+    height: 30px;
+    margin-top: 8px;
+}
+.gbqfif {
+  	margin-left: 10px;
+    color: #555!important;
+}
+*:focus {
+    outline: none;
+}
+  /*Search Bar Button*/
+#gbqfab {
+    height: 46px;
+    background: #ddd;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+.a-ac-Bc-e svg {
+    margin-top: 10px;
+    fill: #000!important;
+}
+.a-ac-Bc-e {
+    height: 46px;
+}
+@media (min-resolution: 1.25dppx),
+(-webkit-min-device-pixel-ratio: 1.25),
+not all .gbqfab {
+    background-image: url('//ssl.gstatic.com/gb/images/v2_f80843e3.png');
+}
+/*New Button*/
+.a-Fa-mn-K>.a-va-Qe {
+    padding: 0;
+}
+.a-va-Qe .j-Ta-pb.f-e.f-e-dg.a-Da-e,
+.a-va-Qe .f-e-ea {
+    width: 100%;
+    height: 46px;
+    border: none!important;
+    margin: 0!important;
+    padding: 0!important;
+    border-radius: 0!important;
+    background-image: none!important;
+    box-shadow: none!important;
+    outline: none!important;
+}
+.f-e-dg {
+    background-color: #4285f4!important;
+    background-image: none;
+}
+.j-Ta-pb.f-e-og-aa {
+    margin-top: 10px!important;
+    font-size: 15px;
+    text-transform: capitalize;
+    padding-right: 20px;
+}
+.j-Ta-pb.f-e-og-aa:before {
+    content: "+";
+}
+/*My Drive Icon Color*/
+.a-U-ag-da>.a-U-H>.a-U-H-s {
+    color: #4285f4!important;
+}
+.a-U-ag-da>.a-U-H>.a-U-H-ye>.a-U-H-ye-xb {
+    border-left: 4px solid #4285f4!important;
+}
+.a-Rh-d-da svg {
+    fill: #4285f4!important;
+}

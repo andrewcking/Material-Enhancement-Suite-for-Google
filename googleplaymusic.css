@@ -1,0 +1,90 @@
+#music-content > .three-column.g-content.new-listen-now > .material-cluster.cluster:nth-of-type(1) > .lane-content{
+display: none;
+}
+#music-content > .three-column.g-content.new-listen-now > .material-cluster.cluster:nth-of-type(1) > .has-subtitle.header{
+display: none;
+}
+#nav_collections > .sub.tooltip.nav-item-container{
+display: none;
+}
+#shop-nav{
+display: none;
+}
+#nav_collections > .tooltip.nav-item-container:nth-of-type(5){
+display: none;
+}
+#nav_collections > .tooltip.nav-item-container:nth-of-type(3){
+display: none;
+}
+#nav_collections > .tooltip.nav-item-container:nth-of-type(2){
+display: none;
+}
+#header-tabs-container > .tab-container:nth-of-type(1) > sj-tab:nth-of-type(2){
+display: none;
+}
+#music-content > .view-transition.g-content > .search-view > .material-cluster.cluster:nth-of-type(1) > .lane-content{
+display: none;
+}
+#music-content > .view-transition.g-content > .search-view > .material-cluster.cluster:nth-of-type(1) > .header{
+display: none;
+}
+#music-content > .view-transition.g-content > .search-view > .has-more.has-next-page.material-cluster.cluster:nth-of-type(1){
+display: none;
+}
+#music-content > .three-column.g-content.new-listen-now > .cluster-text-protection{
+display: none;
+}
+#music-content > .three-column.g-content.new-listen-now > .light.ups{
+display: none;
+}
+#music-content > .view-transition.three-column.g-content.new-listen-now > .cluster-text-protection{
+display: none;
+}
+#music-content > .view-transition.three-column.g-content.new-listen-now > .light.ups{
+display: none;
+}
+#music-content > .view-transition.g-content > .search-view > .has-more.has-next-page.material-cluster.cluster > .header{
+display: none;
+}
+#music-content > .view-transition.g-content > .search-view > .has-more.has-next-page.material-cluster.cluster > .lane-content{
+display: none;
+}
+#music-content > .view-transition.g-content > .search-view > .has-more.has-next-page.material-cluster.cluster > .lane-content{
+display: none;
+}
+#music-content > .view-transition.g-content > .search-view > .has-more.has-next-page.material-cluster.cluster > .header > .header-inner > .title{
+display: none;
+}
+#music-content > .view-transition.g-content > .search-view > .has-more.has-next-page.material-cluster.cluster > .header > .header-inner{
+display: none;
+}
+#music-content > .view-transition.g-content > .search-view > .has-more.has-next-page.material-cluster.cluster > .header{
+display: none;
+}
+#music-content > .view-transition.g-content > .search-view > .has-more.has-next-page.material-cluster.cluster{
+display: none;
+}
+#nav > .nav-section-header:nth-of-type(3){
+display: none;
+}
+#auto-playlist-thumbs-up{
+display: none;
+}
+#auto-playlist-recent{
+display: none;
+}
+#auto-playlist-promo{
+display: none;
+}
+#nav > .nav-section-divider:nth-of-type(4){
+display: none;
+}
+#nav > .material.nav-section > .tooltip.nav-item-container:nth-of-type(4){
+display: none;
+}
+#nav > .nav-section-divider:nth-of-type(2) {
+display: none;
+}
+[data-type="situations"], .cluster-text-protection {
+    display: none;
+}

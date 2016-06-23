@@ -1,0 +1,120 @@
+/* GApps banner removal */
+.yt-masthead-account-notification {
+    display: none;
+}
+.yt-uix-card-body-arrow.yt-uix-card-body-arrow-vertical {
+    display: none;
+}
+/* new style */
+#yt-masthead-container {
+    background: #e52d27!important;
+    padding-top: 15px!important;
+    padding-bottom: 8px!important;
+    border-bottom: 0!important;
+}
+#yt-masthead #logo-container .logo, .footer-logo-icon {
+    background: no-repeat url('https://www.youtube.com/yt/brand/media/image/YouTube-logo-light.png')!important;
+    background-size: cover!important;
+    width: 105px!important;
+    height: 56px!important;
+  	margin-top: -18px;
+}
+#yt-masthead .yt-masthead-logo-container {
+    margin-top: 10px!important;
+}
+.appbar-guide-menu-layout {
+    margin-top: 64px!important;
+}
+.appbar-hidden #masthead-positioner-height-offset {
+	height: 64px!important;
+}
+#masthead-positioner-height-offset {
+    height: 104px;
+}
+.yt-uix-button-icon-appbar-guide {
+    -webkit-filter: brightness(0) invert(1);
+    margin-top: -8px;
+}
+#yt-masthead-user {
+    margin-top: 10px!important;
+}
+#yt-masthead-user .yt-uix-button-icon-bell {
+    -webkit-filter: brightness(0) invert(1);
+    opacity: 1!important;
+}
+span {
+    text-shadow: none;
+}
+.guide-item.guide-item-selected, .guide-item.guide-item-selected:hover, .guide-item.guide-item-selected .yt-deemphasized-text, .guide-item.guide-item-selected:hover .yt-deemphasized-text {
+    background: #333!important;
+    padding:
+}
+#guide-container {
+    padding: 0!important;
+}
+a.guide-item.yt-uix-sessionlink.yt-valign {
+    padding: 6px;
+}
+.yt-scrollbar ::-webkit-scrollbar {
+  	display: none;
+}
+.show-guide #appbar-guide-menu {
+    box-shadow: 5px 10px 15px 5px rgba(0,0,0,.1);
+}
+.appbar-guide-notification {
+    background: #b31217!important;
+}
+span.yt-uix-button-content {
+    font-weight: 300;
+    letter-spacing: .7px;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+a#upload-btn {
+    background: transparent!important;
+    color: #fff;
+    box-shadow: none;
+    border: none;
+}
+a#upload-btn:hover {
+    text-decoration: underline;
+}
+/* search style */
+#masthead-search-terms {
+    height: 48px!important;
+    border: none;
+    border-radius: 3px;
+    background: #b31217!important;
+    box-shadow: none!important;
+    margin: 0!important;
+}
+button#search-btn {
+    display: none;
+}
+#yt-masthead-content {
+    overflow: visible!important;
+}
+#masthead-search {
+    margin-top: -7px!important;
+}
+#masthead-search input {
+  color: #fff!important;
+}
+/* footer */
+div#footer-container {
+    background-color: #333!important;
+}
+
+#footer-main button, #footer-main .yt-uix-button {
+    background-color: #333!important;
+    color: #fff!important;
+    border: none!important;
+    box-shadow: none!important;
+}
+div#footer-links a {
+    color: #fff;
+}
+#footer-main span.yt-uix-button-icon {
+        -webkit-filter: brightness(0) invert(1);
+        opacity: 1;
+}
